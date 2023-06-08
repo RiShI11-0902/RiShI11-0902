@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @RiShI11-0902
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m React JS Developer
+- 👀 I have a passion for creating beautiful and responsive user interfaces that deliver a seamless user experience..
+- 🌱 I stay up-to-date with the latest web technologies and best practices.
+- 💞️ Sharing Knowledge on Code College.
+- 📫 Connect on Linkdein: www.linkedin.com/in/rushikesh-bagade11
+.
 
 <!---
 RiShI11-0902/RiShI11-0902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
